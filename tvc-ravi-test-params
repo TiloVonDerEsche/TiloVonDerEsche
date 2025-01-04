@@ -1,0 +1,3 @@
+Threshold_Zeroing Tests:
+1.Mean of the maximum garbage value per axis  over 10 measurements
+  Each test took 10 seconds
